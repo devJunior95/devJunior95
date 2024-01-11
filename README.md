@@ -3,7 +3,6 @@
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](website:https://github.com/devJunior95)
 
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=devJunior95&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devJunior95&size_weight=0.5&count_weight=0.5)
 
 ## Habilidades/Tecnologias
